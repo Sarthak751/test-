@@ -1,5 +1,4 @@
-var x = 7;
-console.log(77);
+console.log("Taking things");
 var y = 5;
 console.log(y);
 console.log(x + y);
