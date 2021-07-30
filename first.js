@@ -9,3 +9,5 @@ console.log(3);
 z = 4;
 console.log(y + z);
 console.log(360);
+console.log(5);
+console.log(7);
