@@ -10,3 +10,5 @@ z = 4;
 console.log(y + z);
 console.log(360);
 console.log("Hi baby");
+console.log(24);
+console.log(7563);
